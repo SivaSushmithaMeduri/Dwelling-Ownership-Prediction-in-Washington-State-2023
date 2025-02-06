@@ -25,8 +25,8 @@ This project explores homeownership prediction in Washington State using Support
 
 ## Files in the Repository
 - `Housing_revised.csv` – Preprocessed dataset used for modeling.
-- `ownership_prediction.ipynb` – Jupyter Notebook containing the SVM implementation, visualizations, and analysis.
-- `report.pdf` – Detailed research report with computational results and discussions.
+- `Housing_Ownership_code.ipynb` – Jupyter Notebook containing the SVM implementation, visualizations, and analysis.
+- `Report.pdf` – Detailed research report with computational results and discussions.
 
 ## Requirements
 - Python 
